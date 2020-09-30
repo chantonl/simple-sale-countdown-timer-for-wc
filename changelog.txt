@@ -1,0 +1,4 @@
+*** Simple Sale Countdown Timer ***
+
+2020-08-15 - version 1.0.0
+ * First Release

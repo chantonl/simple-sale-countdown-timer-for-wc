@@ -1,0 +1,19 @@
+{
+    "name": "chantonl/simple-sale-countdown-timer-for-wc",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/chantonl/simple-sale-countdown-timer-for-wc",
+    "authors": [
+        {
+            "name": "Avamaksa",
+            "homepage": "https://woocommerce.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.6"
+    }
+}

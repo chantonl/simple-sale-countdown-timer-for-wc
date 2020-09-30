@@ -1,0 +1,425 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Sale Countdown Timer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-13 18:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.2; wp-5.3.4"
+
+#. 1$-2$: opening and closing <strong> tags, 3$-4$: link tags, takes to woocommerce plugin on wp.org, 5$-6$: opening and closing link tags, leads to plugins.php in admin
+#: includes/class-simple-sale-countdown-timer.php:187
+#, php-format
+msgid ""
+"%1$sSimple Sale Countdown Timer is inactive.%2$s The %3$sWooCommerce "
+"plugin%4$s must be active for Simple Sale Countdown Timer to work. Please "
+"%5$sinstall & activate WooCommerce &raquo;%6$s"
+msgstr ""
+
+#. 1$-2$: opening and closing <strong> tags, 3$: minimum supported WooCommerce version, 4$-5$: opening and closing link tags, leads to plugin admin
+#: includes/class-simple-sale-countdown-timer.php:190
+#, php-format
+msgid ""
+"%1$sSimple Sale Countdown Timer is inactive.%2$s This version of the plugin "
+"requires WooCommerce %3$s or newer. Please %4$supdate WooCommerce to version "
+"%3$s or newer &raquo;%5$s"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:74
+msgid "02:30:20"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:73
+msgid "02h 30m 20s"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:286
+msgid "Active"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add live countdown timer to your store and create limited time deal using "
+"this countdown plugin."
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:200
+msgid "Add your custom css for the countdown timer over here"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:18
+#: includes/admin/views/html-sale-settings.php:147
+msgid "Additional"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:159
+msgid "Amount saved will be displayed on single product page."
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:29
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:102
+#: includes/admin/views/html-sale-settings.php:106
+msgid "Countdown finish text"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:88
+#: includes/admin/views/html-sale-settings.php:92
+msgid "Countdown text"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:12
+#: includes/admin/views/html-sale-settings.php:25
+msgid "Countdown timer"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:70
+msgid "Countdown timer format"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:191
+#: includes/admin/views/html-sale-settings.php:195
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:15
+#: includes/admin/views/html-sale-settings.php:83
+msgid "Customize texts"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:61
+msgid "Default value is 24 hours. Maximum value is 48 hours."
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:260
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:30
+#: includes/admin/views/html-sale-settings.php:34
+msgid "Enable on?"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:168
+msgid "End Date"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:63
+msgid "End date"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:184
+msgid "End Sale"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:288
+msgid "Ended"
+msgstr ""
+
+#: includes/class-simple-sale-countdown-timer.php:102
+msgid "Ends in"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:51
+msgid "Fixed discount"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:50
+msgid "Fixed price"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:116
+#: includes/admin/views/html-sale-settings.php:120
+msgid "Flash sale text"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:161
+#, php-format
+msgid "For example, You save: %s16 (33&#37;)"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:66
+msgid "Format"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:59
+msgid "From&hellip;YYYY-MM-DD"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:59
+msgid "hour(s) left for the sale to end."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://woocommerce.com/"
+msgstr ""
+
+#: includes/class-simple-sale-countdown-timer.php:104
+msgid "Limited time deal"
+msgstr ""
+
+#: includes/admin/class-ssct-admin-manage-sale.php:59
+msgid "Manage"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:12
+msgid "Manage products on sale"
+msgstr ""
+
+#: includes/class-simple-sale-countdown-timer.php:105
+msgid "No product(s) found."
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:130
+#: includes/admin/views/html-sale-settings.php:134
+msgid "No products found text"
+msgstr ""
+
+#: includes/admin/class-ssct-admin-manage-sale.php:160
+msgid ""
+"No sale has been added. Please make sure the calculated offered price is "
+"less than the regular price of the product."
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:45
+msgid "Offer at *"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:49
+msgid "Percentage discount"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:37
+msgid "Product On Sale"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:41
+msgid "Product page"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:28
+msgid "Products"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:36
+msgid "Products On Sale"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:22
+msgid ""
+"Products on sale for your store can be managed here. Select "
+"products/categories for sale, set an offer price and schedule your sale in "
+"one go."
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:165
+msgid "Regular Price"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:183
+msgid "Remove Schedule Dates"
+msgstr ""
+
+#: includes/admin/class-ssct-admin-menus.php:34
+msgid "Sale Countdown"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:65
+msgid "Sale end date"
+msgstr ""
+
+#: includes/admin/class-ssct-admin-manage-sale.php:158
+msgid "Sale has been added."
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:166
+msgid "Sale Price"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:60
+msgid "Sale start date"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:208
+msgid "Save changes"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:38
+msgid "Search for a product category&hellip;"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:34
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:16
+msgid "Search Product"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:185
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:186
+msgid ""
+"Select today's deals page to show all products on your store that are on "
+"sale for the day."
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:69
+msgid "Set"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:24
+msgid "Set products on sale"
+msgstr ""
+
+#: includes/admin/class-ssct-admin-manage-sale.php:60
+#: includes/admin/class-ssct-admin.php:49
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:37
+msgid "Shop page"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:59
+msgid "Show countdown timer when less than"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:152
+#: includes/admin/views/html-sale-settings.php:156
+msgid "Show savings?"
+msgstr ""
+
+#. Name of the plugin
+msgid "Simple Sale Countdown Timer"
+msgstr ""
+
+#. Author of the plugin
+msgid "SkyWay"
+msgstr ""
+
+#: includes/class-simple-sale-countdown-timer.php:103
+msgid "Sorry! You missed this deal"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:167
+msgid "Start Date"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:58
+msgid "Start date"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:169
+msgid "Status"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:47
+msgid ""
+"The countdown timer will only be visible for scheduled on sale product(s)"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:54
+msgid "The price/discount you want to offer."
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:97
+msgid ""
+"The text to append before the countdown timer for e.g Ends in 2h 30m 20s."
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:111
+msgid "The text to show after countdown has ended."
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:139
+msgid "The text to show when there are no products found in Today's deal"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:125
+msgid "The urgency text to show while the countdown timer is still active."
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:148
+msgid "This is where you can configure the additional settings,"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:84
+msgid ""
+"This is where you can customize all texts related to the countdown timer and "
+"sale."
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:26
+msgid "This is where you can customize the countdown timer for your store."
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:164
+msgid "Title"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:64
+msgid "To&hellip;YYYY-MM-DD"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:45
+msgid "Today's deal page"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:166
+#: includes/admin/views/html-sale-settings.php:170
+msgid "Today's deals page"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:290
+msgid "Upcoming"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:261
+msgid "View"
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:148
+msgid "View products"
+msgstr ""
+
+#: includes/admin/class-ssct-admin.php:49
+msgid "View Simple Sale Countdown Settings"
+msgstr ""
+
+#: includes/admin/views/html-sale-settings.php:52
+#: includes/admin/views/html-sale-settings.php:56
+msgid "When to show?"
+msgstr ""
+
+#: includes/admin/views/html-manage-sale.php:42
+msgid "You can choose multiple products/categories."
+msgstr ""
+
+#: includes/ssct-core-functions.php:63
+msgid "You save:"
+msgstr ""
+
+#: includes/admin/class-ssct-admin-manage-sale.php:219
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/admin/class-ssct-products-list.php:148
+msgid "Your store as no products on sale. "
+msgstr ""
